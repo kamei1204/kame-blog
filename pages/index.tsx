@@ -1,4 +1,6 @@
-import type { GetStaticProps, NextPage } from 'next'
+import { GetStaticProps, NextPage } from 'next'
+import React from 'react'
+
 import Card from '../components/Cards'
 import Layout from '../components/Layout'
 import Section from '../components/Section'

@@ -1,3 +1,4 @@
+import React from "react";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import NotionBlocks from "notion-block-renderer";
 import ArticleMeta from "../../components/ArticleMeta";
